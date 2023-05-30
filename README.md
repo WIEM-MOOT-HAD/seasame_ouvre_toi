@@ -5,8 +5,8 @@ This project was realised to analyse COMPASS dataset (https://www.kaggle.com/dat
 
 ## Usage
 This repository is composed of : 
-* sesame_ouvre_toi_dataviz.ipynp: This notebook shows graphs used to understand and analyse the datset
-* sesame_ouvre_toi_ML+SHAP.ipynp : this notebook contains an autoML model, a Random Forest and XG Boost models with Shap analyse to make prediction and analyse results. 
+* sesame_ouvre_toi_dataviz.ipynb: This notebook shows graphs used to understand and analyse the datset
+* sesame_ouvre_toi_ML+SHAP.ipynb: this notebook contains an autoML model, a Random Forest and XG Boost models with Shap analyse to make prediction and analyse results. 
 * streamlit_app: This file contains the main code to run the streamlit app related to this project. 
 
 ## Contributing
