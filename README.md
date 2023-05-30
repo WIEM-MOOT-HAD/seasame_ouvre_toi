@@ -1,4 +1,4 @@
-# seasame_ouvre_toi
+# sésame_ouvre_toi
 
 ## Context
 This project was realised to analyse COMPASS dataset (https://www.kaggle.com/datasets/danofer/compass) . The purpose is to analyse dataset, use a machine learning model and explain results using SHAP. 
